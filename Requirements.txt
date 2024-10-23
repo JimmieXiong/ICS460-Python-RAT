@@ -1,0 +1,6 @@
+
+Python commands to install all these packages in one go.
+Why we need we need it because they provide the core functionality required for both the server and client operations in your project.
+
+
+pip install Pillow comtypes pycaw pyautogui opencv-python vidstream
