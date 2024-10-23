@@ -1,6 +1,12 @@
-
 Python commands to install all these packages in one go.
 Why we need we need it because they provide the core functionality required for both the server and client operations in your project.
 
 
 pip install Pillow comtypes pycaw pyautogui opencv-python vidstream
+
+- Pillow: Allows image processing, which is used for tasks like screenshoting
+- comtypes: Enables interaction with Windows COM objects, which is used for tasks like controlling audio devices, retrieving device information, and modifying system components.  
+- pycaw: Provides the ability to manage system audio, such as adjusting volume and controlling speakers.
+- pyautogui: Facilitates automation of mouse and keyboard actions, which is useful for remote control tasks like typing commands or taking screenshots.
+- opencv-python: Used for capturing and processing video from webcams or other video sources.
+- vidstream: Allows for video streaming, including webcam and screen sharing over the network, which is important for remote access. 
