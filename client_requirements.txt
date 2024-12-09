@@ -1,0 +1,10 @@
+Pillow
+comtypes
+pycaw
+pyautogui
+opencv-python
+vidstream
+# Added because was missing now fixed
+pynput
+keyboard
+
